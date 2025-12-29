@@ -314,7 +314,7 @@ git push origin feature/enhancement-name
 MIT License - see [LICENSE](LICENSE) file for details.
 
 ### Enterprise Support
-- **Email**: DevOpsdecode@gmail.com
+- **Email**: riz1992.shaikh@gmail.com
 - **Documentation**: [Wiki](https://github.com/your-org/system-monitor/wiki)
 - **Issues**: [GitHub Issues](https://github.com/your-org/system-monitor/issues)
 - **Security**: security@company.com
